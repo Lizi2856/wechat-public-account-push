@@ -43,8 +43,10 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2023-04-30' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
+        //小辉生日
+        { keyword: 'wx_birthday_1.DATA', date: '2023-04-30' },
+        // 小龚生日
+        { keyword: 'love_day', date: '1998-01-19' },
       ],
     },
   ],
