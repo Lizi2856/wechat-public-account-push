@@ -44,9 +44,9 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2023-04-30' },
         //小辉生日
-        { keyword: 'wx_birthday_1.DATA', date: '2023-04-30' },
+        { keyword: 'wx_birthday_1.DATA', date: '1996-07-30' },
         // 小龚生日
-        { keyword: 'love_day', date: '1998-01-19' },
+        { keyword: '{wx_birthday_2.DATA', date: '1998-01-19' },
       ],
     },
   ],
