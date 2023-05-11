@@ -39,14 +39,19 @@ const USER_CONFIG = {
           type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
         },
       ],
+
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '*生日', name: '小龚', year: '1998', date: '01-19',
+        },
+        {
+      ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2023-04-30' },
-        //小辉生日
-        { keyword: 'wx_birthday_1.DATA', date: '1996-07-30' },
-        // 小龚生日
-        { keyword: '{wx_birthday_2.DATA', date: '1998-01-19' },
+
       ],
     },
   ],
