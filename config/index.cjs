@@ -13,6 +13,14 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'd2528713305275afb882babcc84f9c2b',
 
+  SWITCH: {
+  oneTalk: true,
+  },
+
+  IS_SHOW_COLOR: true,
+  LITERARY_PREFERENCE: '',
+    
+    
   PROVINCE: '广东',
   CITY: '深圳',
 
